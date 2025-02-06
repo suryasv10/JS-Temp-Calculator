@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}h2{
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#valuelabel{
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p1{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#submitButton{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 8px;
+    font-size: 13px;
+    padding: 4px 10px;
+}
+#clabel{
+    color:white;
+    font-size: 17px;
+}
+#flabel{
+    color:white;
+    font-size: 17px;
+}
